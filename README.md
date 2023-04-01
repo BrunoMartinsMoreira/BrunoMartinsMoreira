@@ -17,6 +17,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <div>
-  <img  height="280em" src="https://github-readme-stats.vercel.app/api?username=BrunoMartinsMoreira&theme=blue-green&include_all_commits=true&count_private=true"/> 
+  <img  height="200em"  src="https://github-readme-stats.vercel.app/api?username=BrunoMartinsMoreira&theme=blue-green&include_all_commits=true&count_private=true"/> 
+   <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsMoreira&theme=blue-green"/> 
 </div>
 
