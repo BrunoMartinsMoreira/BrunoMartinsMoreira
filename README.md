@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bruno Moreira, apaixonado por tecnologia e criar soluções
+### Olá! Eu sou o Bruno Moreira, crio soluções com código e café (muito café)!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-martins-moreira/)
 
