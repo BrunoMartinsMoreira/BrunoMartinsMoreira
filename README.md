@@ -20,8 +20,8 @@
 
 
 
+
 <div>
-   <img  height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsMoreira&theme=blue-green"/> 
-  <img  height="250em"  src="https://github-readme-stats.vercel.app/api?username=BrunoMartinsMoreira&theme=blue-green&include_all_commits=true&count_private=true"/> 
+   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsMoreira&theme=radical&hide=css,html,Handlebars,Dockerfile'/>
 </div>
 
