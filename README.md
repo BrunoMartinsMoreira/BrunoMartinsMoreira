@@ -22,6 +22,6 @@
 
 
 <div>
-   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsMoreira&theme=radical&hide=css,html,Handlebars,Dockerfile'/>
+   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsMoreira&theme=radical&hide=css,html,Handlebars,Dockerfile,Javascript'/>
 </div>
 
